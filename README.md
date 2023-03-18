@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do antonnnyo  dev estudante. 😁
+bem vindos ,Sou um estudante dedicado de desenvolvimento front-end com habilidades em HTML, CSS e JavaScript. Estou sempre procurando aprender mais sobre as melhores práticas de design e desenvolvimento web para criar interfaces envolventes e de alta qualidade. Tenho interesse em projetos de desenvolvimento front-end e estou ansioso para aplicar minhas habilidades em projetos reais e desafios da vida real. Estou animado para continuar aprendendo e aprimorando minhas habilidades para me tornar um desenvolvedor front-end excepcional.
 
  <div>
    <a href="https://github.com/Antonnyocarlos93">
