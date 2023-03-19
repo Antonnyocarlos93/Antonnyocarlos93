@@ -16,8 +16,22 @@
  
   ### redes abaixo!
  
-<div> 
-  <a href="https://instagram.com/maykdss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maycondouglasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align='center'>
+
+<a href="https://www.linkedin.com/in/jeanmeira/" target="_blank" rel="noreferrer">
+<img src="./images/icons8-linkedin.svg" width="32" height="32" />
+</a>
+<a href="https://www.facebook.com/jean.meira.79" target="_blank" rel="noreferrer">
+<img src="./images/facebook-novo.svg" width="32" height="32" />
+</a>
+<a href="https://www.instagram.com/jean.meira10/" target="_blank" rel="noreferrer">
+<img src="./images/instagram.svg" width="32" height="32" />
+</a>
+<a href="mailto:jean.meira10@hotmail.com" target="_blank" rel="noreferrer">
+<img src="./images/outlook-2019.svg" width="32" height="32" />
+</a>
+<a href="https://medium.com/@jean.meira10" target="_blank" rel="noreferrer">
+<img src="./images/medium.svg" width="32" height="32" />
+</a>
+
 </div>
-![Snake animation](https://github.com/Antonnyocarlos93/Antonnyocarlos93/blob/output/github-contribution-grid-snake.svg)
